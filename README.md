@@ -34,3 +34,4 @@ Desenvolvido como um Produto Mínimo Viável (MVP), o aplicativo opera com foco 
 ## 👨‍💻 Autor
 
 **Infor**
+
